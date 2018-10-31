@@ -77,7 +77,7 @@ $(function() {
       success: function( info ) {
         console.log(info);
         if (info.success) {
-          location.herf = 'index.html';
+          location.href = 'index.html';
         }
         if (info.error === 1000) {
           // console.log(info.message);
