@@ -146,3 +146,8 @@ body {
 .modal .red {
   color: rgb(180, 6, 6);
 }
+
+/* 一级分类 */
+.main .content .mg-bt {
+  margin-bottom: 30px;
+}
