@@ -151,3 +151,12 @@ body {
 .main .content .mg-bt {
   margin-bottom: 30px;
 }
+
+/* 二级分类 */
+.main .content table img {
+  height: 50px;
+}
+#addModal .dropdown,
+#addModal .form-group {
+  margin-bottom: 15px;
+}
