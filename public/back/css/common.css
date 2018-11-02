@@ -15,6 +15,9 @@ a:hover,
 a:active {
   text-decoration: none;
 }
+textarea {
+  resize: none;
+}
 
 body {
   background-color: #222D32;
