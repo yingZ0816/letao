@@ -1,0 +1,39 @@
+.lt_main .lt_nav {
+  float: left;
+  width: 90px;
+  height: 100%;
+  background-color: plum;
+  position: relative;
+}
+.lt_main .lt_nav li a {
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  color: #666666;
+  background-color: #E3E4E5;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+.lt_main .lt_nav li a.current {
+  background-color: #fff;
+  border-right: none;
+}
+.lt_main .lt_brand {
+  overflow: hidden;
+  height: 100%;
+  background-color: #fff;
+  position: relative;
+}
+.lt_main .lt_brand li {
+  float: left;
+  width: 33.33%;
+  text-align: center;
+}
+.lt_main .lt_brand li img {
+  width: 70px;
+  height: 50px;
+  margin: 0 auto;
+}
+.lt_main .lt_brand .nomore {
+  padding: 10px;
+}
